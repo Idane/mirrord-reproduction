@@ -1,0 +1,11 @@
+{
+    "target": "pod/<changeme>",
+    "feature": {
+        "network": false,
+        "fs": "read",
+        "env": false
+    },
+    "agent": {
+        "log_level": "trace"
+    }
+}
